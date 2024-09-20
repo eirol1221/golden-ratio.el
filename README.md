@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/roman/golden-ratio.el)
+
 # golden-ratio.el
 
 When working with many windows at the same time, each window has a size
